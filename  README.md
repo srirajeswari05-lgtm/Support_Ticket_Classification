@@ -37,6 +37,7 @@ The system accepts an IT support ticket as text.
 
 ```text
 My laptop is not working and I cannot access the system. This is urgent.
+```
 
 ## Data Cleaning
 
